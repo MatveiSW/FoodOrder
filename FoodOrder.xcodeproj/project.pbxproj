@@ -25,7 +25,7 @@
 		2BE84F772AE165F500EA70F4 /* Categories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BE84F762AE165F500EA70F4 /* Categories.swift */; };
 		2BE84F7B2AE1679E00EA70F4 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BE84F7A2AE1679E00EA70F4 /* NetworkManager.swift */; };
 		2BE84F7E2AE16BD700EA70F4 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 2BE84F7D2AE16BD700EA70F4 /* Kingfisher */; };
-		2BF22ACA2B03AD620057CD97 /* BascetManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF22AC92B03AD620057CD97 /* BascetManager.swift */; };
+		2BF22ACC2B062C170057CD97 /* BascetManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF22ACB2B062C170057CD97 /* BascetManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,7 +48,7 @@
 		2BE84F732AE1657500EA70F4 /* CategoriesCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesCollectionViewCell.swift; sourceTree = "<group>"; };
 		2BE84F762AE165F500EA70F4 /* Categories.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Categories.swift; sourceTree = "<group>"; };
 		2BE84F7A2AE1679E00EA70F4 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
-		2BF22AC92B03AD620057CD97 /* BascetManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = BascetManager.swift; path = ../../../../Downloads/BascetManager.swift; sourceTree = "<group>"; };
+		2BF22ACB2B062C170057CD97 /* BascetManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BascetManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,7 +164,7 @@
 			children = (
 				2BE84F7A2AE1679E00EA70F4 /* NetworkManager.swift */,
 				2B4D41892AF4DC6200B9A992 /* LocationManager.swift */,
-				2BF22AC92B03AD620057CD97 /* BascetManager.swift */,
+				2BF22ACB2B062C170057CD97 /* BascetManager.swift */,
 			);
 			name = Services;
 			sourceTree = "<group>";
@@ -256,7 +256,7 @@
 				2BE84F7B2AE1679E00EA70F4 /* NetworkManager.swift in Sources */,
 				2BE84F5A2AE13A5700EA70F4 /* CategoriesViewController.swift in Sources */,
 				2B4D418C2AF4F0D700B9A992 /* DishCategoriesCollectionViewCell.swift in Sources */,
-				2BF22ACA2B03AD620057CD97 /* BascetManager.swift in Sources */,
+				2BF22ACC2B062C170057CD97 /* BascetManager.swift in Sources */,
 				2BE84F562AE13A5700EA70F4 /* AppDelegate.swift in Sources */,
 				2BE84F582AE13A5700EA70F4 /* SceneDelegate.swift in Sources */,
 				2B4D418A2AF4DC6200B9A992 /* LocationManager.swift in Sources */,
