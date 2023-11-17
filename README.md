@@ -18,5 +18,5 @@
 - Auto layout
 - MVC
   
-![HomeVC](https://github.com/MatveiSW/FoodOrder/blob/s/HomeVC.png)
+![HomeVC](https://github.com/MatveiSW/FoodOrder/blob/s/HomeVC%202.png)
 
