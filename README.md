@@ -30,4 +30,3 @@
 
  ![HomeVC](https://github.com/MatveiSW/FoodOrder/blob/s/BascetVC.png)
 
-
