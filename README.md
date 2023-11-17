@@ -20,4 +20,8 @@
   
 ![HomeVC](https://github.com/MatveiSW/FoodOrder/blob/s/HomeVC.png)
 
+<p align="center">
+ <HomeVC width="200px" src="img.png" alt="qr"/>
+</p>
+
 
