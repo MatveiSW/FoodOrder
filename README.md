@@ -24,3 +24,7 @@
  
  ![HomeVC](https://github.com/MatveiSW/FoodOrder/blob/s/foodListVC.png)
 
+
+ ![HomeVC](https://github.com/MatveiSW/FoodOrder/blob/s/DishCard.png) 
+
+
