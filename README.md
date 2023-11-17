@@ -17,5 +17,5 @@
 - GCD
 - Auto layout
 - MVC
-![Image alt](https://github.com/{MatveiSW}/{FoodOrder}/raw/{s}/{https://github.com/MatveiSW/FoodOrder/blob/s/HomeVC.png}/image.png)
+![Image alt](https://github.com/MatveiSW/FoodOrder/blob/s/HomeVC.png)
 
