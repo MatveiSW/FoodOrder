@@ -16,4 +16,6 @@
 - URLSession, Kingfisher
 - GCD
 - Auto layout
-- MVC 
+- MVC
+![Image alt](https://github.com/{MatveiSW}/{FoodOrder}/raw/{s}/{HomeVC}/image.png)
+
